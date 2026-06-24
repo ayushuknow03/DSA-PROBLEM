@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
 | ------- |
