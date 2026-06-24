@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
