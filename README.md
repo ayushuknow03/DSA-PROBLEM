@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0069-sqrtx) |
 | [2652-sum-multiples](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
