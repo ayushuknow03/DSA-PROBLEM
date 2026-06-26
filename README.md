@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -35,8 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
