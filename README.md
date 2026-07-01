@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0441-arranging-coins) |
+| [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
 | [2652-sum-multiples](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
