@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
