@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
 | [2652-sum-multiples](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2652-sum-multiples) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
