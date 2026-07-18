@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
