@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0086-partition-list) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
