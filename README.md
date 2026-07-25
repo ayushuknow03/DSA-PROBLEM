@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
+| [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
