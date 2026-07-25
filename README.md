@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,8 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
