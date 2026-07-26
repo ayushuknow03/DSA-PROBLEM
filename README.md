@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
@@ -138,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
