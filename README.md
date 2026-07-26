@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
@@ -141,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
