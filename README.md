@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
