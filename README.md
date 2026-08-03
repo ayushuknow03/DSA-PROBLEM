@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Binary Search
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
 | [1753-maximum-score-from-removing-stones](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1753-maximum-score-from-removing-stones) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2652-sum-multiples](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushuknow03/DSA-PROBLEM/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
